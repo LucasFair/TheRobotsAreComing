@@ -1,0 +1,7 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\TheRobotsAreComing\obj\Debug\TheRobotsAreComing.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\TheRobotsAreComing\obj\Debug\TheRobotsAreComing.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\TheRobotsAreComing\bin\Debug\TheRobotsAreComing.exe.config
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\TheRobotsAreComing\bin\Debug\TheRobotsAreComing.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\TheRobotsAreComing\bin\Debug\TheRobotsAreComing.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\TheRobotsAreComing\obj\Debug\TheRobotsAreComing.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\TheRobotsAreComing\obj\Debug\TheRobotsAreComing.pdb
